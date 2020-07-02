@@ -69,16 +69,14 @@ web browser.
 
 HTML Describes the Structure of Pages.
 
-HTML uses tags like "<h1>"
+HTML uses tags 
 
-the most important tags are <html> and <body>
+the most important tags are html tag and body tag
 each has an importance and job.
 some tags hass opening tag and closing tags , but some has only opening tag.
-EX: <p> </p>
 
-### <p lang="fr">Paragraphe en Français</p>
-lang is an attribute name, fr is an attribute value. these are used for adding styling.
-<title> is used for adding a name for the page.
+
+
 
 
  HTML pages are text documents.
@@ -89,9 +87,9 @@ lang is an attribute name, fr is an attribute value. these are used for adding s
 
 HTML5 is the newest version of HTML , XML is the oldest, in between there's many versions of HTML. all vary in features.
 
-<!-- --> is for adding a comment
 
-<!DOCTYPE html> is for HTML5
+
+!DOCTYPE html tag is for HTML5
 you can add ID and class attribute to give the element a unique styling, ID adds a very unique styling, class for multiple-use styling , in CSS code we use #id and .class ...
 
 Some elements will always
@@ -99,8 +97,7 @@ appear to start on a new line in
 the browser window. These are
 known as block level elements. 
 
-Examples of block elements are
-<h1>, <p>, <ul>, and <li>.
+
 
 
 Some elements will always
@@ -108,23 +105,11 @@ appear to continue on the
 same line as their neighbouring
 elements. These are known as
 inline elements.
-Examples of inline elements are
-<a>, <b>, <em>, and <img>.
 
 
 
 
-Grouping Text &
-Elements In a Block ,use <div>
-
-
-Grouping Text &
-Elements Inline, use <span>
-
-
-
-
-<iframe> chapter-08/iframes.html HTML
+iframe tag
 An iframe is like a little window
 that has been cut into your
 page — and in that window you
@@ -133,55 +118,54 @@ iframe is an abbreviation of inline
 frame
 
 Information About
-Your Pages
-<meta>
+Your Pages use meta tag
 
 
 # HTML Chapter 17: “HTML5 Layout” (pp.428-451):
 
-The <header> and <footer>
+The header and footer
 elements can be used for:
 ● The main header or footer
 that appears at the top or
 bottom of every page on the
 site.
 ● A header or footer for an
-individual <article> or
-<section> within the page.
+individual article or
+section within the page.
 
-The <nav> element is used to
+The nav element is used to
 contain the major navigational
 blocks on the site such as the
 primary site navigation.
 
 
-The <article> element acts as
+The article element acts as
 a container for any section of a
 page that could stand alone and
 potentially be syndicated.
 
-The <aside> element has two
+The aside element has two
 purposes, depending on whether
-it is inside an <article>
+it is inside an article
 element or not.
 
-When the <aside> element
-is used inside an <article>
+When the aside element
+is used inside an article
 element, it should contain
 information that is related to the
 article but not essential to its
 overall meaning
 
 
-The <section> element groups
+The section element groups
 related content together, and
 typically each section would
 have its own heading.
 
-The purpose of the <hgroup>
+The purpose of the hgroup
 element is to group together a
-set of one or more <h1> through
-<h6> elements so that they are
+set of one or more h1 through
+h6 elements so that they are
 treated as one single heading
 
 
@@ -221,7 +205,7 @@ Each object can have its own:
 • Properties
 • Events
 • Methods 
-</br>
+
 a property is information about the object
 events are :Programmers choose which events they respond to.
 When a specific event happens, that event can be
@@ -247,7 +231,7 @@ IT IN MEMORY
 ENGINE TO SHOW THE
 PAGE ON SCREEN 
 
-The HTML <script> element is
+The HTML script element is
 used to load the JavaScript file
 into the page. It has an attribute
 called src, whose value is the
@@ -255,7 +239,7 @@ path to the script you created.
 
 #### document.write('something here')
  document : document object , represent the entire webpage. 
- write : method of the document ,object allows writing new things on the HTML page on where <script> tag lays.
+ write : method of the document ,object allows writing new things on the HTML page on where script tag lays.
 .: member operator
 something here : parameters , the new thing you want to write.
 
@@ -269,3 +253,4 @@ page that the browser has created.
 
 
 
+the end
