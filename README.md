@@ -8,7 +8,7 @@ Hello ,In this website, you can find all my 201 reading notes:
 Read number| Link
 ------------ | -------------
 Read 1  | [Read01](https://marahirshaid.github.io/reading-notes/class01)
-Read 2  | [GitHub](http://github.com)
+Read 2  | [GitHub](https://marahirshaid.github.io/reading-notes/class02)
 Read 3  | [GitHub](http://github.com) 
 Read 4  | [GitHub](http://github.com)
 Read 5  | [GitHub](http://github.com)
