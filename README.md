@@ -9,7 +9,7 @@ Read number| Link
 ------------ | -------------
 Read 1  | [Read01](https://marahirshaid.github.io/reading-notes/class01)
 Read 2  | [Read02](https://marahirshaid.github.io/reading-notes/class02)
-Read 3  | [GitHub](http://github.com) 
+Read 3  | [Read03](https://marahirshaid.github.io/reading-notes/class03) 
 Read 4  | [GitHub](http://github.com)
 Read 5  | [GitHub](http://github.com)
 Read 6  | [GitHub](http://github.com)
