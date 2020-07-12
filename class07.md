@@ -12,13 +12,13 @@ Store the newly created object in a variable so you can access its properties an
 Use the this variable within methods so you can access the object's properties and methods from inside.
 
 
-Chapter 6: “Tables” (pp.126-145)
+# Chapter 6: “Tables” (pp.126-145):
 Table : represnts information in a grid format. Examples of tables include financial reports , TV schedules, and sports results.
 
 Basic table structure: <table>, <tr>, <td>, <th>
 Long tables: <thead>, <tbody>, <tfoot>.
 JS Book:
-Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
+# Chapter 3: “Functions, Methods, and Objects” (pp.106-144):
 Built in objects: Browsers come with a set of built-in objects that represent things like the browser window and the current web page shown in that window. These built-in objects act like a toolkit for creating interactive web pages.
 
 The first thing you need to do is get to know what tools are available. You can imagine that your new toolkit has three compartments:
