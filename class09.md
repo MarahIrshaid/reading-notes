@@ -97,8 +97,9 @@ to run when the event
 occurs.
 
 ![picture 1 ](http://4.bp.blogspot.com/-yakfBOFJuc4/VVH2lRUQC3I/AAAAAAAAAQ4/UMQytXbFt6U/s320/loop1.png)
-
+ How code appears and examples for events:
 ![picture2](https://cope-ali.github.io/cope-ali261.github.io/img/HTMLevents.png)
+
 ![picture3](https://cope-ali.github.io/cope-ali261.github.io/img/lesson9html.png)
 
 
