@@ -39,7 +39,7 @@ To set multiple points at which an element should undergo a transition, use the 
 
 
 # 8 simple CSS3 transitions that will wow your users:
-
+ I chose my favorate four :
 1. Fade in
 
 
@@ -51,3 +51,45 @@ To set multiple points at which an element should undergo a transition, use the 
 {
         opacity:1;
 }```
+
+
+2. Change color
+
+
+```.color:hover
+{
+        background:#53a7ea;
+}```
+
+3. Grow & Shrink
+
+```.grow:hover
+{
+        -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+}```
+
+shrink :
+```.shrink:hover
+{
+        -webkit-transform: scale(0.8);
+        -ms-transform: scale(0.8);
+        transform: scale(0.8);
+}```
+
+
+4. Rotate elements
+
+
+```.rotate:hover
+{
+        -webkit-transform: rotateZ(-30deg);
+        -ms-transform: rotateZ(-30deg);
+        transform: rotateZ(-30deg);
+}```
+
+
+
+
+# 6 Buttons animated:
