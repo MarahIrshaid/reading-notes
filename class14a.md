@@ -1,4 +1,4 @@
-What Google Learned From Its Quest to Build the Perfect Team :
+# What Google Learned From Its Quest to Build the Perfect Team :
 its found that its better to work as teams, you will have to do that at work,
 
 Studies show that groups tend to innovate faster, see mistakes more quickly, and find better solutions to problems. Studies also show that people working in teams tend to achieve better results and report higher job satisfaction.
@@ -37,59 +37,63 @@ The transition-timing-function property is used to set the speed in which a tran
 Animations Keyframes
 To set multiple points at which an element should undergo a transition, use the @keyframes rule. The @keyframes rule includes the animation name, any animation breakpoints, and the properties intended to be animated
 
+Transition Delay
+On top of declaring the transition property, duration, and timing function, you can also set a delay with the transition-delay property. The delay sets a time value, seconds or milliseconds, that determines how long a transition should be stalled before executing. As with all other transition properties, to delay numerous transitions, each delay can be declared as comma separated values.
+
 
 # 8 simple CSS3 transitions that will wow your users:
  I chose my favorate four :
 1. Fade in
 
 
-```.fade
-{
-        opacity:0.5;
-}
-.fade:hover
-{
-        opacity:1;
-}```
+```.fade```
+```{```
+     ```   opacity:0.5;```
+```}```
+```.fade:hover```
+```{```
+      ```  opacity:1;```
+```}```
 
 
 2. Change color
 
 
-```.color:hover
-{
-        background:#53a7ea;
-}```
+```.color:hover```
+```{```
+       ``` background:#53a7ea;```
+```}```
 
 3. Grow & Shrink
 
-```.grow:hover
-{
-        -webkit-transform: scale(1.3);
-        -ms-transform: scale(1.3);
-        transform: scale(1.3);
-}```
+```.grow:hover```
+```{```
+     ```   -webkit-transform: scale(1.3);```
+      ```  -ms-transform: scale(1.3);```
+      ```  transform: scale(1.3);```
+```}```
 
 shrink :
-```.shrink:hover
-{
-        -webkit-transform: scale(0.8);
-        -ms-transform: scale(0.8);
-        transform: scale(0.8);
-}```
+```.shrink:hover```
+```{```
+     ```   -webkit-transform: scale(0.8);```
+       ``` -ms-transform: scale(0.8);```
+      ```  transform: scale(0.8);```
+```}```
 
 
 4. Rotate elements
 
 
-```.rotate:hover
-{
-        -webkit-transform: rotateZ(-30deg);
-        -ms-transform: rotateZ(-30deg);
-        transform: rotateZ(-30deg);
-}```
+```.rotate:hover```
+```{```
+    ```    -webkit-transform: rotateZ(-30deg);```
+     ```   -ms-transform: rotateZ(-30deg);```
+     ```   transform: rotateZ(-30deg);```
+```}```
 
 
 
 
-# 6 Buttons animated:
+
+
